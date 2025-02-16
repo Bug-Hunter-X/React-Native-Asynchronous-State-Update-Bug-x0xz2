@@ -1,0 +1,1 @@
+This React Native code snippet demonstrates a common error involving asynchronous operations and state updates. The problem lies in how `fetch` (an asynchronous function) interacts with the component's state.
